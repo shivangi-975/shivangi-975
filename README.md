@@ -7,3 +7,6 @@ I am pursuing my masters in Artificial intelligence and have exposure to differe
 -  Ask me about Artificial Intelligence ,Deep Learning  and Computer Vision fields.
 - How to reach me on mail: parasharshivangi5@gmail.com
 - How to reach me on Linkedin:https://www.linkedin.com/in/shivangi-parashar-4596a9a4
+- My personal blog:https://shivangiparashar.blogspot.com/
+
+
