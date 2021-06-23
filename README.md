@@ -2,9 +2,7 @@
 
 I am Shivangi Parashar data science and a deep learning enthusiast,Full Stack Developer,Blogger. 
 
-I am pursuing my masters in Artificial Intelligence from IIT Hyderabad.
-
-I am doing my internship as AI Software Engineer at Omega Wealth Management,Switzerland.
+Pursuing my masters in Artificial Intelligence from IIT Hyderabad.Currently,doing my internship as AI Software Engineer at Omega Wealth Management,Switzerland.
 
 I have work experience of 2 years 10 months as a Java developer at Infosys have worked for US based Health Insurance client Aetna.
 
