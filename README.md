@@ -10,10 +10,7 @@ My area of interestes are: DeepLearning,Computer Vision,Algorithms and Data Stru
 
 How to reach me on mail: parasharshivangi5@gmail.com.
 
-My projects link:https://github.com/shivangi-975.
-
 How to reach me on Linkedin:https://www.linkedin.com/in/shivangi-parashar-4596a9a4.
 
-My personal blog:https://shivangiparashar.blogspot.com/.
 
 
